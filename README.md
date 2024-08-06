@@ -1,6 +1,6 @@
 # Rolodex Reader
 
- Rolodex Reader is a simple project that processes a bulk of personal information in varies formats and normalizing them into standard JSON format.
+ Rolodex Reader is a simple project that processes a bulk of personal information in various formats and normalizing them into standard JSON format.
 
 ## Documentation
 
